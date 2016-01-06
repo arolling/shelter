@@ -1,0 +1,21 @@
+.column {
+  width: 300px;
+  float:left;
+  padding: 3px;
+}
+
+.column h3 {
+  color: red;
+  font-family: fantasy;
+}
+
+img {
+  width: 200px;
+  height: auto;
+  padding: 5px;
+}
+
+.column p {
+  font-family: sans-serif;
+  background-color: #b896b8;
+}
